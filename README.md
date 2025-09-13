@@ -19,5 +19,6 @@ sudo dnf install ffmpeg
 
 scoop install ffmpeg
 
-git clone https://github.com/<ton_user>/Tesla_dash_videos.git
+git clone https://github.com/RomainRCD/Tesla_dash_videos.git
+
 cd Tesla_dash_videos
